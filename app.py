@@ -1,5 +1,5 @@
-import streamlit as st
-import requests
+pip install -r requirements.txt
+streamlit run app.py
 
 # Define the API URL of the back-end server
 # Replace with the public URL of your backend, or use localhost if testing locally
